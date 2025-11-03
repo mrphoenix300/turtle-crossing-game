@@ -43,7 +43,7 @@ It helped me understand:
 1. Make sure you have Python ≥ 3.10 installed.  
 2. Clone or download the repository:
    ```bash
-   git clone https://github.com/<your-username>/turtle-crossing-game.git
+   git clone https://github.com/mrphoenix300/turtle-crossing-game.git
    cd turtle-crossing-game
    ```
 3. Run the game:
