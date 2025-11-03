@@ -28,6 +28,7 @@ It helped me understand:
 ---
 
 ## 🗂️ Project Structure
+
 ```
 .
 ├── main.py          # Game loop and logic
