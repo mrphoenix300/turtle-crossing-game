@@ -21,7 +21,7 @@ class CarManager:
             t.shapesize(stretch_wid=1, stretch_len=2)
             t.color(choice(COLORS))
             t.penup()
-            t.goto(randint(300, 2000), randint(-300, 300))
+            t.goto(randint(300, 2000), randint(-280, 280))
             t.setheading(180)
             t.move_distance = self.cur_speed
             self.cars.append(t)
