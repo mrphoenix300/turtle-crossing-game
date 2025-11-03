@@ -26,8 +26,8 @@ class Scoreboard(Turtle):
         self.update_scoreboard()
 
     def game_over(self):
-        self.clear()
-        self.penup()
-        self.hideturtle()
-        self.goto(0,0)
-        self.write("GAME OVER", align="center", font=FONT)
+        game_over = Turtle()
+        game_over.penup()
+        game_over.hideturtle()
+        game_over.goto(0,0)
+        game_over.write("GAME OVER", align="center", font=FONT)
